@@ -8,7 +8,6 @@ func linearOrderedArraySearch(array []int, value int) int {
 		if v > value {
 			break
 		}
-
 	}
 
 	return -1
